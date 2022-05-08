@@ -17,10 +17,10 @@ https://github.com/ruby/openssl
 ### リポジトリのclone
 本リポジトリをcloneします。  
 ```sh
-git clone https://github.com/amazonpay-labs/amazonpay-sample-ruby-v2.git
+https://github.com/satokiy/AmazonPaySample.git
 
 # cloneしたリポジトリへ移動
-cd amazonpay-sample-ruby-v2
+cd AmazonPaySample
 ```
 
 ### Seller Centralでのアプリケーション作成・設定
