@@ -1,6 +1,7 @@
 keys/keyinfo.rb
 keys/privateKey.pem
-
+/.bundle
+/vendor
 # others
 *.swp
 !.gitkeep
