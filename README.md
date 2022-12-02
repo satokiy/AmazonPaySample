@@ -44,7 +44,7 @@ keysディレクトリ配下に、下記のファイルが生成されます。
 
 #### Bundlerを使用する場合
 ```sh
-bundle install
+bundle install --path=vendor/bundle
 ```
 
 #### RubyGemsを使用する場合
@@ -61,7 +61,7 @@ gem install sinatra
 ## サーバーの起動
 本ディレクトリにて、下記コマンドを実行します。
 ```sh
-ruby app.rb
+bundle exec ruby app.rb
 ```
 
 [http://localhost:4567/](http://localhost:4567/) にアクセスして、動作を確認します。
